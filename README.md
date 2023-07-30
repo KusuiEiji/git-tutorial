@@ -2,4 +2,4 @@
 
 - feature-A
 - fix-B
--feaeture-C
+-feature-C
